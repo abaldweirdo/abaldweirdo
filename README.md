@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b>Microsoft Azure</b>
+<br>
 - <a href="https://www.linkedin.com/pulse/copy-manage-microsoft-entra-id-identities-aniket-chauhan-5q8qc/">Manage Microsoft Entra ID Identities - GUI</a>
 <br>
 - <a href="https://www.linkedin.com/pulse/manage-microsoft-entra-id-identities-powershell-aniket-chauhan-jxxpc/">Manage Microsoft Entra ID Identities - Powershell</a>
@@ -28,5 +29,6 @@
 - <a href="https://www.credly.com/badges/da2d0504-656f-490e-8280-0173fb923652/public_url">Junior Cybersecurity Analyst - Cisco</a>
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Aniket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aniket | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[linkedin]
 [linkedin]: https://www.linkedin.com/in/aniket-chauhan-3a0415229/
