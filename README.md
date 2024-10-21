@@ -8,7 +8,7 @@
 <br>
 - <a href="https://www.linkedin.com/pulse/manage-microsoft-entra-id-identities-powershell-aniket-chauhan-jxxpc/">Manage Microsoft Entra ID Identities - Powershell</a>
 <br>
-- - <a href="https://www.linkedin.com/pulse/manage-microsoft-entra-id-identities-powershell-aniket-chauhan-jxxpc/">Windows Service Monitor Tool - Python</a>
+- <a href="https://www.linkedin.com/pulse/manage-microsoft-entra-id-identities-powershell-aniket-chauhan-jxxpc/">Windows Service Monitor Tool - Python</a>
 <br>
 <h2>📜Certificates:</h2>
 - <a href="">Certified Ethical Hacker - Masters</a>
@@ -29,6 +29,5 @@
 - <a href="https://www.credly.com/badges/da2d0504-656f-490e-8280-0173fb923652/public_url">Junior Cybersecurity Analyst - Cisco</a>
 
 <h2>🤳Connect with me:</h2>
-
-- <a href="https://www.linkedin.com/in/aniket-chauhan-3a0415229/">LinkedIN</a>
+<a href="https://www.linkedin.com/in/aniket-chauhan-3a0415229/">LinkedIN</a>
 
